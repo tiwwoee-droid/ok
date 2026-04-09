@@ -1,0 +1,8 @@
+<style>
+body {
+background-image: url("pdf.jpg");
+background-size: 50%;
+background-attachment: fixed; /* фон фиксируется при прокрутке */
+background-repeat: no-repeat;
+}
+</style>
